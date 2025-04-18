@@ -112,7 +112,7 @@ modifier = Modifier.fillMaxSize(), verticalArrangement = Arrangement.Center)
                     }
                 }
             },
-            title = {"Add Shopping Item"},
+            title = {"Add Shopping Item into the cart"},
             text = {
                 Column {
                     OutlinedTextField(
